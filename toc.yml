@@ -52,7 +52,6 @@ project:
       - title: Soortelijke warmte
         children:
           - file: Content/Labs/cwater.ipynb
-          - file: Content/Labs/Verdamping.ipynb        
           - file: Content/Labs/Warmtecapaciteit.ipynb
           - file: Content/Labs/koelbuis.ipynb
 
@@ -63,4 +62,5 @@ project:
 
       - title: Faseovergangen
         children:
-          -file: Content/Labs/cappucino.ipynb
+          - file: Content/Labs/Verdamping.ipynb        
+          - file: Content/Labs/cappucino.ipynb
